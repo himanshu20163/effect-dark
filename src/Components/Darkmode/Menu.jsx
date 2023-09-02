@@ -39,7 +39,7 @@ const Menu = () => {
             </li>
         </ul>
         <button onClick={colorchange}>
-            
+            submit
         </button>
     </div>
   )
